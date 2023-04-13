@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map LinkedMatrix
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+LinkedMatrix	KEYWORD1
+LinkedList	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+append	KEYWORD2
+insert	KEYWORD2
+remove	     KEYWORD2
+pop	     KEYWORD2
+count	KEYWORD2
+length	KEYWORD2
+print	KEYWORD2
+destroid	KEYWORD2
+maxElement	KEYWORD2
+at	KEYWORD2
+write	KEYWORD2
+shape	KEYWORD2
+getColumn	KEYWORD2
+getRow	KEYWORD2
+initFill	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
